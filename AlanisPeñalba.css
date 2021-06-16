@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+    color: blue;
+    font-family:'Times New Roman';
+  }
+
+  h2 {
+    background-color: lightblue;
+    color: blue;
+    font-family: "Times New Roman";
+  }
+
+  h3 {
+    background-color: lightblue;
+    color: blue;
+    font-family: "Times New Roman";
+  }
+
+  
+  p {
+    padding: 70px 0;
+    text-align: justify;
+    font-family: Arial;
+  }
+
+  th {
+    background-color: lightblue;
+    color:blue;
+  }
+
+ 
+
+  
